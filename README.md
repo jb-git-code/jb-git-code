@@ -39,9 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jb-git-code&layout=compact&theme=radical"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jb-git-code&theme=radical&hide_border=false"/>
-</p>
+
 
 
 
