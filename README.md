@@ -1,48 +1,65 @@
-<h1 align="center">Hey 👋, I'm Jayanshu</h1>
-<h3 align="center">A passionate Flutter Developer on a mission to craft clean, beautiful UIs 🚀</h3>
+<div style="background-color:#0d1117; color:#c9d1d9; padding: 20px; font-family: 'Fira Code', monospace;">
+
+<h1 align="center" style="font-family: 'Pacifico', cursive;">Jayanshu 👨‍💻</h1>
+<h3 align="center" style="font-family: 'Rubik', sans-serif;">🚀 Flutter Developer | UI/UX Lover | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&width=435&lines=Flutter+Lover+%F0%9F%92%96;Open+Source+Contributor;Always+Learning+New+Things!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Crafting+beautiful+Flutter+apps;Open+Source+Contributor;Building+projects+with+💙"/>
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🌱 I’m currently diving deeper into **Flutter, Firebase, and Clean Architecture**
-- 💼 I’m working on awesome projects and growing my portfolio
-- 💬 Ask me about **Flutter, Dart, GitHub, or anything tech**
-- 📫 Reach me at **jayanshub18@gmail.com**
-
----
-
-## 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
----
-
-## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jb-git-code&show_icons=true&theme=tokyonight" alt="jb-git-code stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jb-git-code&layout=compact&theme=tokyonight" alt="jb-git-code langs" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" alt="geek-coding-gif"/>
 </p>
 
----
+<hr/>
 
----
+<h2 style="font-family: 'Playfair Display', serif;">👨‍💻 About Me</h2>
 
-## 🌐 Let's Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/jayanshu-bhardwaj-05a791322/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jayanshub18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<!--   <a href="https://twitter.com/jb_git_code"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a> -->
+<ul>
+  <li>🎯 Focused on clean UI and functional code in <strong>Flutter</strong></li>
+  <li>🔥 Passionate about mobile apps & Firebase integrations</li>
+  <li>🌱 Currently learning advanced Flutter animations and design patterns</li>
+  <li>📬 Reach out: <strong>jayanshub18@gmail.com</strong></li>
+</ul>
+
+<hr/>
+
+<h2 style="font-family: 'Playfair Display', serif;">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,java,c,git,vscode&perline=7"/>
 </p>
 
----
+<hr/>
 
-⭐️ *Don’t forget to star your favorite repos and keep your GitHub garden green 🌱*
+<h2 style="font-family: 'Playfair Display', serif;">📊 GitHub Stats</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jb-git-code&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jb-git-code&layout=compact&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jb-git-code&theme=radical&hide_border=false"/>
+</p>
+
+
+
+<h2 style="font-family: 'Playfair Display', serif;">🌍 Connect With Me</h2>
+
+<p align="center">
+  <a href="mailto:jayanshub18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/jayanshu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<hr/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jb-git-code&label=Profile+Views&color=blue&style=flat-square" alt="profile views"/>
+</p>
+
+<p align="center">
+  ⭐️ If you like my work, consider giving a star to my projects!
+</p>
+
+</div>
