@@ -1,53 +1,38 @@
+<h1 align="center">Jayanshu Bhardwaj</h1>
+<p align="center">Flutter Developer · Backend Engineer</p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Jayanshu%20Bhardwaj&fontSize=40&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Flutter%20%E2%9A%A1%20Backend%20Developer&descSize=16&descAlignY=58&descFontColor=AAAAAA" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=560&height=25&lines=root%40jayanshu%3A~%24+whoami;Flutter+Developer+%2B+Backend+Engineer;pixel+to+payload%2C+every+time."/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=CCCCCC"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=CCCCCC"/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=CCCCCC"/>
+  <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=CCCCCC"/>
+  <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=CCCCCC"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-</p>
-
----
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jb-git-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=AAAAAA"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jb-git-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=AAAAAA"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jb-git-code&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=AAAAAA&text_color=CCCCCC"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jb-git-code&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=CCCCCC"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jb-git-code&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=FF6C37&currStreakLabel=00E5FF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jb-git-code&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=AAAAAA&currStreakLabel=FFFFFF&sideLabels=CCCCCC&currStreakNum=FFFFFF&sideNums=CCCCCC&dates=808080" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jb-git-code&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=0175C2&point=FF6C37" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jb-git-code&hide_border=true&bg_color=0D0D0D&color=FFFFFF&line=AAAAAA&point=FFFFFF&area=true&area_color=333333" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jb-git-code&theme=tokyonight&no-frame=true&row=1&column=6&no-bg=true"/>
-</p>
-
----
-
-<p align="center">
-  <a href="mailto:jayanshub18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jayanshu-bhardwaj-05a791322/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jb-git-code&label=Profile+Views&color=00E5FF&style=flat-square"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+  <a href="mailto:jayanshub18@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=FFFFFF"/></a>
+  <a href="https://www.linkedin.com/in/jayanshu-bhardwaj-05a791322/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=CCCCCC"/></a>
+  <img src="https://komarev.com/ghpvc/?username=jb-git-code&label=Views&color=808080&style=flat-square"/>
 </p>
