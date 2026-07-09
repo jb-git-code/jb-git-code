@@ -1,8 +1,13 @@
 <h1 align="center">Jayanshu Bhardwaj</h1>
-<p align="center">Flutter Developer · Backend Engineer</p>
+<h3 align="center">Flutter Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=560&height=25&lines=root%40jayanshu%3A~%24+whoami;Flutter+Developer+%2B+Backend+Engineer;pixel+to+payload%2C+every+time."/>
+</p>
+
+<p align="center">
+  Loves to create something new.<br/>
+  Sometimes leetcode, sometimes sleep.
 </p>
 
 <p align="center">
@@ -11,6 +16,7 @@
   <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=CCCCCC"/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=CCCCCC"/>
   <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=CCCCCC"/>
   <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=CCCCCC"/>
