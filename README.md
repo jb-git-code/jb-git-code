@@ -24,10 +24,10 @@
   <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=CCCCCC"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=jb-git-code&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&icon_color=AAAAAA&text_color=CCCCCC"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jb-git-code&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=CCCCCC"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jb-git-code&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=AAAAAA&currStreakLabel=FFFFFF&sideLabels=CCCCCC&currStreakNum=FFFFFF&sideNums=CCCCCC&dates=808080" height="150"/>
