@@ -2,7 +2,7 @@
 <h3 align="center">Flutter Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=560&height=25&lines=root%40jayanshu%3A~%24+whoami;Flutter+Developer+%2B+Backend+Engineer;pixel+to+payload%2C+every+time."/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=560&height=25&lines=I+like+all+shades+of+green;Flutter+Developer+%2B+Backend+Engineer;"/>
 </p>
 
 <p align="center">
