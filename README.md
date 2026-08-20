@@ -64,17 +64,17 @@ I'm a Flutter developer who also ships backend work when the project needs it â€
 -->
 
 **[Nexevent](https://github.com/jb-git-code/NexEvent)**
-One-line description of what it does and the problem it solves.
+One stop for all college events and club info.
 `Flutter` `Firebase` `Provider`
 
 **[CopyFlow](https://github.com/jb-git-code/CopyFlow)**
-One-line description of what it does and the problem it solves.
+Simple clipboard manager app.
 `Flutter` `Node.js` `MongoDB`
 
 **[Notes](https://github.com/jb-git-code/notes)**
-One-line description of what it does and the problem it solves.
+ Notes app with backend service.
 `Dart` `MySQL` `REST API`
-[Repo](https://notes-csk2.onrender.com/)
+[backend](https://notes-csk2.onrender.com/)
 
 <hr/>
 
