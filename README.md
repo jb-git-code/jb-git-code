@@ -25,7 +25,7 @@ Always open to interesting builds and collaborations.
 ### Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=dart,cpp,c,js,flutter,nodejs,firebase,mysql,mongodb,figma,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=dart,cpp,c,js,flutter,nodejs,firebase,supabase,mysql,mongodb,figma,postman&theme=dark" />
 </div>
 
 <br/>
