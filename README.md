@@ -1,13 +1,6 @@
 <h1 align="center">Hi, I'm Jayanshu Bhardwaj </h1>
 <p align="center">Software Developer — Flutter · MERN · CSE @ IIIT Bhagalpur</p>
 
-<p align="center">
-  <a href="https://bjayanshu.netlify.app/assets/resume/Jayanshu_Bhardwaj_Resume.pdf">Resume</a> ·
-  <a href="mailto:projayanshu22@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/jayanshu-bhardwaj-05a791322/">LinkedIn</a> ·
-  <a href="https://bjayanshu.netlify.app/">Portfolio</a>
-</p>
-
 ---
 
 ### About
