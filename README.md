@@ -55,13 +55,6 @@ attendance systems, clipboard managers — real problems with real users in mind
   <img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&labelColor=000000"/>
 </p>
 
-### Selected work
-
-| Project | Stack | Description |
-|---|---|---|
-| [Nexus — NexEvent](https://github.com/jb-git-code/NexEvent) | Flutter · Dart · Firebase · Riverpod · Cloud Functions | Campus event platform — auth, Firestore, storage, role-based access, QR check-in, FCM notifications, admin management. |
-| [Classy — Student Attendance App](https://github.com/jb-git-cod/attendance) | Flutter · Dart · Firebase · Hive | End-to-end attendance system — live tracking, analytics dashboards, leave management, bulk handling, automated alerts. |
-| [Notes — Full Stack Notes App](https://github.com/jb-git-code/notes) | Flutter · Node.js · MongoDB · JWT · Riverpod | Full-stack notes app with JWT auth, RESTful APIs, protected routes, Clean Architecture. |
 
 ### Let's talk
 
